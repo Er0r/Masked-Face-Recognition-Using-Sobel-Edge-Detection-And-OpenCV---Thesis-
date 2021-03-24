@@ -1,4 +1,4 @@
-# Responsive_Website
+# THESIS
 
-A Responsive Website using HTML5,CSS3,BOOTSTRAP4 And Javascript
+SOBEL ALGORITHM
 
